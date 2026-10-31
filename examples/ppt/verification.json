@@ -1,0 +1,92 @@
+{
+  "craft": {
+    "sha256": "1aeffd13c88bef306f33cb42b69ff71d095afa4a092faf3b93babee7c50f5eb1",
+    "bytes": 2239134,
+    "slides": [
+      {
+        "slide": 1,
+        "text_runs": 8,
+        "native_shapes": 8,
+        "native_tables": 0,
+        "pictures": 1,
+        "has_demo_label": true
+      },
+      {
+        "slide": 2,
+        "text_runs": 11,
+        "native_shapes": 33,
+        "native_tables": 0,
+        "pictures": 0,
+        "has_demo_label": true
+      },
+      {
+        "slide": 3,
+        "text_runs": 14,
+        "native_shapes": 36,
+        "native_tables": 0,
+        "pictures": 0,
+        "has_demo_label": true
+      }
+    ]
+  },
+  "business": {
+    "sha256": "ab08519ba3c56afee3f587a9a8793dd14a3c0ac14164df05c3306a5f015bc0ab",
+    "bytes": 30939,
+    "slides": [
+      {
+        "slide": 1,
+        "text_runs": 12,
+        "native_shapes": 12,
+        "native_tables": 0,
+        "pictures": 0,
+        "has_demo_label": true
+      },
+      {
+        "slide": 2,
+        "text_runs": 21,
+        "native_shapes": 27,
+        "native_tables": 0,
+        "pictures": 0,
+        "has_demo_label": true
+      },
+      {
+        "slide": 3,
+        "text_runs": 25,
+        "native_shapes": 5,
+        "native_tables": 1,
+        "pictures": 0,
+        "has_demo_label": true
+      }
+    ]
+  },
+  "culture": {
+    "sha256": "ed7d41801d02002694faeb6b37f82c40d4cf6d2f137ab400361d67039c00efe0",
+    "bytes": 29839,
+    "slides": [
+      {
+        "slide": 1,
+        "text_runs": 6,
+        "native_shapes": 16,
+        "native_tables": 0,
+        "pictures": 0,
+        "has_demo_label": true
+      },
+      {
+        "slide": 2,
+        "text_runs": 7,
+        "native_shapes": 18,
+        "native_tables": 0,
+        "pictures": 0,
+        "has_demo_label": true
+      },
+      {
+        "slide": 3,
+        "text_runs": 24,
+        "native_shapes": 11,
+        "native_tables": 1,
+        "pictures": 0,
+        "has_demo_label": true
+      }
+    ]
+  }
+}

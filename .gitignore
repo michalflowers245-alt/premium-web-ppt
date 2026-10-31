@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+.build/
+.cache/
+.preview/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
