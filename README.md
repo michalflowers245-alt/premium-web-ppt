@@ -6,7 +6,7 @@
 
 **把「高级一点」，变成可以执行的设计判断。**
 
-[安装与使用](#安装与使用) · [六组原创案例](#六组原创案例) · [十种风格方向](#十种风格方向) · [200站参考档案](references/source-index.md) · [下载 v1.0.0](https://github.com/michalflowers245-alt/premium-web-ppt/releases/tag/v1.0.0)
+[在线展示网站](https://michalflowers245-alt.github.io/premium-web-ppt/) · [安装与使用](#安装与使用) · [六组原创案例](#六组原创案例) · [十种风格方向](#十种风格方向) · [200站参考档案](references/source-index.md) · [下载 v1.0.0](https://github.com/michalflowers245-alt/premium-web-ppt/releases/tag/v1.0.0)
 
 `premium-web-ppt` 是一个面向 Codex 的视觉设计 Skill。它将官网参考中的构图、字体、留白、图像和节奏，整理成网页与PPT的制作规则。
 
