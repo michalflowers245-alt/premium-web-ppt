@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="docs/assets/cover.png" alt="Premium Web × PPT：把200个官网的设计判断，装进一个Skill" width="100%">
+  <img src="docs/assets/cover.png" alt="有章｜网页与PPT设计美学：让好设计，有章可循。" width="100%">
 </p>
 
-# 高级官网与PPT美学
+# 有章｜网页与PPT设计美学
 
-**把「高级一点」，变成可以执行的设计判断。**
+**让好设计，有章可循。**
 
-[在线展示网站](https://michalflowers245-alt.github.io/premium-web-ppt/) · [安装与使用](#安装与使用) · [六组原创案例](#六组原创案例) · [十种风格方向](#十种风格方向) · [200站参考档案](references/source-index.md) · [下载 v1.0.0](https://github.com/michalflowers245-alt/premium-web-ppt/releases/tag/v1.0.0)
+[在线展示网站](https://michalflowers245-alt.github.io/premium-web-ppt/) · [安装与使用](#安装与使用) · [六组原创案例](#六组原创案例) · [十种风格方向](#十种风格方向) · [200站参考档案](references/source-index.md) · [下载 v1.0.1](https://github.com/michalflowers245-alt/premium-web-ppt/releases/tag/v1.0.1)
 
-`premium-web-ppt` 是一个面向 Codex 的视觉设计 Skill。它将官网参考中的构图、字体、留白、图像和节奏，整理成网页与PPT的制作规则。
+**有章（premium-web-ppt）** 是一个面向 Codex 的视觉设计 Skill。它将官网参考中的构图、字体、留白、图像和节奏，整理成网页与PPT的制作规则。
 
 建筑项目需要空间与尺度，产品发布需要材质细节，商业方案需要清楚的论证。它会按内容选参考，再把同一套视觉规则延伸到完整作品。
 

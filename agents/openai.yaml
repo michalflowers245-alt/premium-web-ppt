@@ -1,4 +1,4 @@
 interface:
-  display_name: "高级官网与PPT美学"
+  display_name: "有章 · 网页与PPT设计美学"
   short_description: "将200个官网参考转化为网页和PPT的高级视觉系统，按内容选择风格并检查实际成品"
   default_prompt: "使用 $premium-web-ppt，为当前内容选择合适的高级视觉方向并完成网页或PPT设计。"
