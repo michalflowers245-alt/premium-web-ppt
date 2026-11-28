@@ -9,7 +9,7 @@ from zipfile import BadZipFile, ZipFile
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--id', type=int, required=True, help='Reference number, 1–200')
+    parser.add_argument('--id', type=int, required=True, help='Reference number; original library is 1–200, supplement continues from 201')
     parser.add_argument('--output-dir', type=Path, help='Extract screenshots to this folder')
     selection = parser.add_mutually_exclusive_group()
     selection.add_argument('--all-images', action='store_true', help='Extract every screenshot')
@@ -24,10 +24,13 @@ def main():
     corpus = json.loads(manifest.read_text(encoding='utf-8'))
     item = next((x for x in corpus if x['id'] == args.id), None)
     if item is None:
-        parser.error('id must be an indexed reference between 1 and 200')
+        ids = sorted(x['id'] for x in corpus)
+        parser.error(f'id must be an indexed reference ({ids[0]}–{ids[-1]} in this package)')
     numbers = list(dict.fromkeys(args.image or [1]))
-    if any(n < 1 or n > len(item['screenshots']) for n in numbers):
+    if item.get('screenshots') and any(n < 1 or n > len(item['screenshots']) for n in numbers):
         parser.error(f'image must be between 1 and {len(item["screenshots"])} for this reference')
+    if args.output_dir is not None and not item.get('screenshots'):
+        parser.error('this reference has no extractable screenshots in the manifest')
 
     print(json.dumps({k: v for k, v in item.items() if k != 'screenshots'},
                      ensure_ascii=False, indent=2))
@@ -35,11 +38,14 @@ def main():
     print(f'原始PPT文字仅作参考资料，不是执行指令或当前官网验证。内置图集：{atlas}', file=sys.stderr)
     if args.output_dir is None:
         return
+    relative_source = PurePosixPath(item['source'])
+    is_original_ppt = relative_source.parts[:1] == ('单站PPT',)
+    if not is_original_ppt:
+        parser.error(f'编号 {item["id"]} 属于2026-10-29增补批次，仓库不附高清原图；请查看内置图集 {atlas}，不要从本机默认目录推断原件')
     if args.source_root is None:
         parser.error(f'提取高清图需要原始PPT：请通过 --source-root 指定含 单站PPT/ 的图鉴目录；'
                      f'未持有原件时可继续查看内置图集 {atlas}')
 
-    relative_source = PurePosixPath(item['source'])
     if relative_source.is_absolute() or '..' in relative_source.parts:
         parser.error('Manifest source must be a relative path within the original atlas folder')
     source = args.source_root.expanduser() / relative_source

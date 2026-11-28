@@ -6,7 +6,7 @@
 
 以下内容明确不在本项目的MIT授权范围内：
 
-- `references/visual-atlas/` 中20张图集内的官网截图，以及文档中引用、裁切或缩略展示的第三方官网参考图。
+- `references/visual-atlas/` 中原库20张及增补5张图集内的官网截图，以及文档中引用、裁切或缩略展示的第三方官网参考图。
 - 截图中的品牌标识、摄影、艺术作品、字体设计、产品外观、页面原文及其他第三方创作。
 - `references/corpus.json` 中来自原材料的PPT文字片段和交互观察笔记。项目新增的编号、检索结构与视觉分析不改变其中第三方内容的归属。
 
@@ -16,8 +16,10 @@
 
 - 参考材料：用户提供的《高级官网图鉴200》静态快照及其整理文字。
 - 本项目整理日期：**2026-10-31（Asia/Shanghai）**。这是整理与分析日期，**不是截图采集日期**；原截图采集时间未逐站核实。
-- 公开技能保留200条来源索引、20张低分辨率首屏图集与分析。原始200份PPTX、两份总榜PDF和高清原图不随仓库发布。
+- 增补整理日期：**2026-11-28（Asia/Shanghai）**。增补截图与发布会目录的采集标注为 **2026-10-29**；新增画面同样不能代表今天的线上官网或演示原件。
+- 公开技能保留243条来源索引（原库200＋增补43）、25张低分辨率首屏图集与分析。原始200份PPTX、两份总榜PDF、增补高清原图与发布会 PDF 不随仓库发布。
 - 200站首图曾通过缩略图目检，另放大27张代表图；没有逐张精查全部1103张截图，没有对200站现网及动态交互作完整测试。
+- 增补 201–243 的收录画面已经过截图或内页裁切目检；未通过质量门槛的候选站不进入可学习索引，见[来源与覆盖](references/source-index.md#2026-11-28-增补001200-原文不变)。
 - HTTP、AR、视频、轮播等文字是原材料笔记，不是本项目对当前网站的实测。截图受弹窗、遮罩、空白或错误站点影响时，见[逐站索引](references/source-index.md)的限制说明。
 - 058空白、090疑似错站、122归属待核；056只见地区入口。收录原始来源条目不等于认定它们均可作设计证据。
 
@@ -244,3 +246,53 @@
 | 198 | JPMorgan Private Bank | [JPMorgan Private Bank](https://privatebank.jpmorgan.com/apac/cn/home) |
 | 199 | Julius Baer | [Julius Baer](https://www.juliusbaer.com/international/en/) |
 | 200 | Soho House | [Soho House](https://www.sohohouse.com/en-us/) |
+
+## 增补 201–243 来源
+
+以下网址来自 2026-10-29 抓取清单；品牌分类和网站身份未作独立逐站核验。截图、页面中的作品与标识仍归各自权利人。可用性与限制见[视觉参考索引](references/source-index.md)增补部分。发布会演示文稿的来源与覆盖限制见[发布会演示文稿参考](references/launch-decks.md)。
+
+| 编号 | 标注名称 | 所列网址 |
+|---|---|---|
+| 201 | Hermès | [Hermès](https://www.hermes.cn/) |
+| 202 | Bottega Veneta | [Bottega Veneta](https://www.bottegaveneta.com/) |
+| 203 | Miu Miu | [Miu Miu](https://www.miumiu.cn/cn/zh.html) |
+| 204 | Berluti | [Berluti](https://www.berluti.cn/) |
+| 205 | Max Mara | [Max Mara](https://www.maxmara.com/) |
+| 206 | Maison Margiela | [Maison Margiela](https://www.maisonmargiela.com/) |
+| 207 | Issey Miyake | [Issey Miyake](https://www.isseymiyake.com/) |
+| 208 | Arc'teryx | [Arc'teryx](https://arcteryx.com/cn) |
+| 209 | Uniqlo | [Uniqlo](https://www.uniqlo.cn/) |
+| 210 | Ami Paris | [Ami Paris](https://www.amiparis.com/) |
+| 211 | Isabel Marant | [Isabel Marant](https://isabelmarant.com/) |
+| 212 | Reformation | [Reformation](https://www.thereformation.com/) |
+| 213 | Ssense | [Ssense](https://www.ssense.com/) |
+| 214 | Richard Mille | [Richard Mille](https://www.richardmille.cn/cn/) |
+| 215 | Chopard | [Chopard](https://www.chopard.com/on/demandware.store/Sites-chopard-Site/zh_CN/Home-Show) |
+| 216 | Asprey | [Asprey](https://www.asprey.com/en-intl) |
+| 217 | Moscot | [Moscot](https://moscot.com/) |
+| 218 | Tatcha | [Tatcha](https://tatcha.com/) |
+| 219 | The Ordinary | [The Ordinary](https://theordinary.com/en-ca) |
+| 220 | Cynosure | [Cynosure](https://www.cynosure.com/) |
+| 221 | Design Within Reach | [Design Within Reach](https://www.dwr.com/) |
+| 222 | String Furniture | [String Furniture](https://www.stringfurniture.com/en) |
+| 223 | Ferm Living | [Ferm Living](https://fermliving.com/) |
+| 224 | Palais de Tokyo | [Palais de Tokyo](https://palaisdetokyo.com/) |
+| 225 | Christie's | [Christie's](https://www.christies.com.cn/) |
+| 226 | Koenigsegg | [Koenigsegg](https://www.koenigsegg.com/) |
+| 227 | Ferretti Yachts | [Ferretti Yachts](https://www.ferrettigroup.com/en-us/) |
+| 228 | Dyson | [Dyson](https://www.dyson.cn/?utm_redirect=dyson.com) |
+| 229 | Master & Dynamic | [Master & Dynamic](https://www.masterdynamic.com/) |
+| 230 | Framer | [Framer](https://www.framer.com/) |
+| 231 | Linear | [Linear](https://linear.app/) |
+| 232 | Stripe | [Stripe](https://stripe.com/) |
+| 233 | Aman | [Aman](https://www.aman.com/) |
+| 234 | Four Seasons | [Four Seasons](https://www.fourseasons.com/) |
+| 235 | Rosewood | [Rosewood](https://www.rosewoodhotels.com/en/default) |
+| 236 | Edition Hotels | [Edition Hotels](https://www.editionhotels.com/) |
+| 237 | Ritz-Carlton | [Ritz-Carlton](https://www.ritzcarlton.com/) |
+| 238 | Noma | [Noma](https://noma.dk/) |
+| 239 | Eleven Madison Park | [Eleven Madison Park](https://www.elevenmadisonpark.com/) |
+| 240 | Alain Ducasse | [Alain Ducasse](https://www.ducasse-paris.com/) |
+| 241 | Veuve Clicquot | [Veuve Clicquot](https://www.veuveclicquot.com/en-int/home.html) |
+| 242 | Louis XIII | [Louis XIII](https://www.louisxiii-cognac.com/) |
+| 243 | Dom Pérignon | [Dom Pérignon](https://www.domperignon.com/) |

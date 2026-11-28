@@ -23,8 +23,12 @@ class ReferenceCliTests(unittest.TestCase):
             )
 
     def test_complete_portable_manifest(self):
-        self.assertEqual([x['id'] for x in CORPUS], list(range(1, 201)))
-        for item in CORPUS:
+        original = [x for x in CORPUS if x['id'] <= 200]
+        supplement = [x for x in CORPUS if x['id'] >= 201]
+        self.assertEqual([x['id'] for x in original], list(range(1, 201)))
+        self.assertEqual([x['id'] for x in supplement], list(range(201, 201 + len(supplement))))
+        self.assertGreater(len(supplement), 0)
+        for item in original:
             with self.subTest(id=item['id']):
                 source = Path(item['source'])
                 self.assertFalse(source.is_absolute())
@@ -33,6 +37,19 @@ class ReferenceCliTests(unittest.TestCase):
                 self.assertTrue(item['source_url'].startswith('https://'))
                 self.assertTrue((ROOT / 'references' / item['visual_atlas']).is_file())
                 self.assertGreater(len(item['screenshots']), 0)
+        packed = json.dumps(supplement, ensure_ascii=False)
+        self.assertNotIn('/Users/', packed)
+        self.assertNotIn('/workspace/', packed)
+        for item in supplement:
+            with self.subTest(id=item['id']):
+                source = Path(item['source'])
+                self.assertFalse(source.is_absolute())
+                self.assertNotEqual(source.parts[0], '单站PPT')
+                self.assertNotIn('..', source.parts)
+                self.assertTrue(item['source_url'].startswith('https://'))
+                self.assertTrue(item['visual_atlas'].startswith('visual-atlas/'))
+                self.assertTrue((ROOT / 'references' / item['visual_atlas']).is_file())
+                self.assertIn('batch', item)
 
     def test_metadata_without_originals(self):
         result = self.run_cli('--id', 56)
@@ -42,6 +59,24 @@ class ReferenceCliTests(unittest.TestCase):
         self.assertIn('地区', item['visual_status'])
         self.assertEqual(item['source'], '单站PPT/056-Le Labo.pptx')
         self.assertNotIn('/Users/', result.stdout)
+
+    def test_supplement_metadata_without_originals(self):
+        result = self.run_cli('--id', 201)
+        self.assertEqual(result.returncode, 0, result.stderr)
+        item = json.loads(result.stdout)
+        self.assertEqual(item['id'], 201)
+        self.assertIn('references/visual-atlas/201-210.jpg', result.stderr)
+        self.assertNotIn('/Users/', result.stdout + result.stderr)
+        self.assertNotIn('/workspace/', result.stdout + result.stderr)
+
+    def test_supplement_extraction_points_to_atlas(self):
+        with tempfile.TemporaryDirectory() as temp:
+            output = Path(temp) / 'not-created'
+            result = self.run_cli('--id', 201, '--source-root', temp, '--output-dir', output)
+            self.assertEqual(result.returncode, 2)
+            self.assertIn('增补', result.stderr)
+            self.assertIn('references/visual-atlas/201-210.jpg', result.stderr)
+            self.assertFalse(output.exists())
 
     def test_extraction_requires_explicit_source_root(self):
         with tempfile.TemporaryDirectory() as temp:
@@ -61,7 +96,8 @@ class ReferenceCliTests(unittest.TestCase):
             self.assertIn('references/visual-atlas/181-190.jpg', result.stderr)
 
     def test_invalid_id_and_image(self):
-        for args in [('--id', 0), ('--id', 201), ('--id', 4, '--image', 0),
+        max_id = max(x['id'] for x in CORPUS)
+        for args in [('--id', 0), ('--id', max_id + 1), ('--id', 4, '--image', 0),
                      ('--id', 4, '--image', 2)]:
             with self.subTest(args=args):
                 self.assertEqual(self.run_cli(*args).returncode, 2)

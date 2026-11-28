@@ -1,4 +1,4 @@
-# 200站视觉参考索引
+# 243站视觉参考索引（原库 001–200，增补 201–243）
 
 ## 来源与覆盖
 
@@ -8,11 +8,20 @@
 - 17个品类沿用原材料分类，其中设计机构也被列入“建筑设计”；分类不是品牌身份独立核验。相对原件文件名、原件所列网址、PPT文字与AI视觉标签分别保存在[corpus.json](corpus.json)。
 - “可用”仅指可见静态构图；不代表品牌身份、当前业务事实、摄影许可或网站运行状态已核实。HTTP/动效笔记是原材料自报记录，与截图可用性分开；403不自动判废，200也不证明画面已加载。
 - 058空白；090疑似错站；122内容归属待核。056只有地区入口，不支持对其商品主站的完整结论。155/164/167/169/175/177的首屏存在空白或缺失媒体；118/136主要被弹窗覆盖。其他局部污染见逐行限制，不能把弹窗、遮罩或加载失败学成风格。
-- 详细目检依据按需读：[001–070](visual-analysis-001-070.md)、[071–140](visual-analysis-071-140.md)、[141–200](visual-analysis-141-200.md)。这些是AI视觉分析，与PPT内原始交互笔记分开。图片归属见[第三方素材说明](../THIRD_PARTY_NOTICES.md)。
+- 详细目检依据按需读：[001–070](visual-analysis-001-070.md)、[071–140](visual-analysis-071-140.md)、[141–200](visual-analysis-141-200.md)。这些是AI视觉分析，与PPT内原始交互笔记分开。增补站见[201–243](visual-analysis-201-243.md)。发布会讲演见[发布会演示文稿参考](launch-decks.md)。图片归属见[第三方素材说明](../THIRD_PARTY_NOTICES.md)。
+
+### 2026-11-28 增补（001–200 原文不变）
+
+- 增补整理日期：2026-11-28，Asia/Shanghai。新增 43 站，编号 **201–243**，不重排、不改写原 001–200。
+- 增补材料采集标注为 2026-10-29。主要来源是 `sites/premium-sites.jsonl`（221 站图鉴）中相对原库的独有站点；另从 `hd/final-200.v1.jsonl` 收入 4 个高质量独有站（Ssense、Framer、Linear、Stripe）。`hd/final-200.jsonl` 与 `final-200.next.jsonl` 与原库 200 站品牌完全重叠，只作为原库的高清重拍材料，**不替换、不重编号**原条目。
+- 对照原库 corpus 后，221 站图鉴中有 88 个名称/域名不在 001–200；经截图目检，空白页、拦截页、403 近白页、404、维护页、Access Denied、仅地区入口、Cookie/年龄门完全遮挡且底层不可学、以及 UBS 财报公告页等未写入可学习索引，详见本包 `STATS.md`。收录的 43 站均看过实际截图或内页裁切，不凭品牌名补写排版。
+- 增补图集为 5 张：`visual-atlas/201-210.jpg` 至 `241-243.jpg`。高清原图、92MB 总榜 PPTX 与约 3GB 打包不进入仓库。
+- 发布会/投资人演示文稿另见[发布会演示文稿参考](launch-decks.md)；137 条目录未整表迁入，IR 财报页不作审美范例。
+
 
 ## 怎样选与回看
 
-先按编号、名称或视觉标签检索，再看每10站一张的图集。图集只适合选择方向，不能代替大图检查；未提供的内页与交互不能凭常识补齐。无需每次加载200行PPT原文或全部图集。PDF页码为原材料1起算页码，仅供持有原件者回查。
+先按编号、名称或视觉标签检索，再看每10站一张的图集。图集只适合选择方向，不能代替大图检查；未提供的内页与交互不能凭常识补齐。无需每次加载全部索引行或全部图集。原库 001–200 仍可按原 PDF 页码回查；增补站没有随仓库发布的单站 PPT。PDF页码为原材料1起算页码，仅供持有原件者回查。
 
 在技能根目录运行：
 
@@ -317,3 +326,120 @@ python3 scripts/inspect_reference.py --id 187 --all-images --source-root "图鉴
 | 198 JPMorgan Private Bank | 白顶栏、金棕抽象图、中文大标题；下页细线横向编辑条目 | 可用；image2 信息版式可用于商务分析；快照预测数值不能当已核事实 | [原件所列网址](https://privatebank.jpmorgan.com/apac/cn/home) · PDF 203页 · 5图 · [图集](visual-atlas/191-200.jpg) |
 | 199 Julius Baer | 秋色人像自然摄影、右下短标题、白底栏目 | 可用；HTTP 403 注记不代表本图失败；强橙色来自真实风景 | [原件所列网址](https://www.juliusbaer.com/international/en/) · PDF 204页 · 7图 · [图集](visual-atlas/191-200.jpg) |
 | 200 Soho House | 乡野航拍、居中衬线短标题；下页奶油白底、衬线标题与人物图错位 | 可用；image2 为轻松编辑式生活叙事，会员数量只是原件文案 | [原件所列网址](https://www.sohohouse.com/en-us/) · PDF 205页 · 3图 · [图集](visual-atlas/191-200.jpg) |
+
+## 增补索引 201–243
+
+编号从 201 起续编，原 001–200 保持不变。来源网址是 2026-10-29 抓取清单中的记录，不等于已核验今天的官网。图集只适合选择方向，实施前应再看该站对应画面。
+
+### 奢侈品时装（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 201 Hermès | 整版秋日风景、翻开书页与箱包、细小中文标题叠字 | 可用；电影画面气质。截图由错误页救援替换，分析依据救援后画面 | [所列网址](https://www.hermes.cn/) · [图集](visual-atlas/201-210.jpg) |
+| 202 Bottega Veneta | 白底编织手袋特写、稀疏导航、产品占主位 | 可用；精密材质产品舞台 | [所列网址](https://www.bottegaveneta.com/) · [图集](visual-atlas/201-210.jpg) |
+| 203 Miu Miu | 整版编导式人物组照、居中短词、细白导航 | 可用；电影/编辑人像；勿复制肖像 | [所列网址](https://www.miumiu.cn/cn/zh.html) · [图集](visual-atlas/201-210.jpg) |
+| 204 Berluti | 暖棕产品静物与人物分栏、衬线字标、多列说明 | 可用；材质与产品故事并置 | [所列网址](https://www.berluti.cn/) · [图集](visual-atlas/201-210.jpg) |
+| 205 Max Mara | 粉色外套人物与石雕并置、白顶栏 | 可用；人像与雕塑对照；勿复制肖像 | [所列网址](https://www.maxmara.com/) · [图集](visual-atlas/201-210.jpg) |
+| 206 Maison Margiela | 白底三幅非常规人像与裙装、极少文字 | 可用；艺术编辑肖像，勿复制肖像或标识 | [所列网址](https://www.maisonmargiela.com/) · [图集](visual-atlas/201-210.jpg) |
+| 207 Issey Miyake | 高饱和褶皱服装人像、极简站点字标 | 可用；色彩与褶皱材质主导 | [所列网址](https://www.isseymiyake.com/) · [图集](visual-atlas/201-210.jpg) |
+
+### 服装品牌（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 208 Arc'teryx | 登山人物大图、右上产品短标题 | 可用；运动叙事摄影。sites/ 原截图近白，改用高清备用 | [所列网址](https://arcteryx.com/cn) · [图集](visual-atlas/201-210.jpg) |
+| 209 Uniqlo | 品红渐变大字促销主视觉、倒计时与券文案 | 可用；中国电商活动型；促销文案、时限与优惠不迁移为事实。sites/ 原截图近白，改用高清备用 | [所列网址](https://www.uniqlo.cn/) · [图集](visual-atlas/201-210.jpg) |
+| 210 Ami Paris | 深蓝街头人像、细导航、产品短标签 | 可用；生活摄影编辑；勿复制肖像 | [所列网址](https://www.amiparis.com/) · [图集](visual-atlas/201-210.jpg) |
+| 211 Isabel Marant | 棕褐纹理上人物特写、衬线字标、中部短标题 | 可用；材质与冬季编辑；勿复制肖像 | [所列网址](https://isabelmarant.com/) · [图集](visual-atlas/211-220.jpg) |
+| 212 Reformation | 红裙人物几乎满版、左下短标题与行动 | 可用；摄影主导的发布；勿复制肖像 | [所列网址](https://www.thereformation.com/) · [图集](visual-atlas/211-220.jpg) |
+| 213 Ssense | 灰底双联买手店摄影、超大跨图标题 | 可用；艺术编辑双联。来自 hd/final-200.v1 独有站，不在 221 站名单中 | [所列网址](https://www.ssense.com/) · [图集](visual-atlas/211-220.jpg) |
+
+### 腕表珠宝（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 214 Richard Mille | 人物与腕表主视觉、大号姓名字标 | 部分可用；右侧 Cookie 面板需排除，勿复制肖像 | [所列网址](https://www.richardmille.cn/cn/) · [图集](visual-atlas/211-220.jpg) |
+| 215 Chopard | 白底钻石珠宝特写、衬线标题 | 可用；明亮精密产品。原材料曾记为弱小文件，本包依据尺寸与画面已更新的截图 | [所列网址](https://www.chopard.com/on/demandware.store/Sites-chopard-Site/zh_CN/Home-Show) · [图集](visual-atlas/211-220.jpg) |
+| 216 Asprey | 紫顶栏、衬线字标、暖棕人像与花卉耳饰 | 可用；摄影主导。图集取无弹窗的站点截图，不用带订阅窗的高清首屏 | [所列网址](https://www.asprey.com/en-intl) · [图集](visual-atlas/211-220.jpg) |
+
+### 香水配饰（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 217 Moscot | 沙滩上多副眼镜静物、底部黄色行动标签 | 可用；明亮商业产品舞台 | [所列网址](https://moscot.com/) · [图集](visual-atlas/211-220.jpg) |
+
+### 护肤品（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 218 Tatcha | 白底商品货架、淡紫点缀、短句标题 | 可用；清晰美妆发布 | [所列网址](https://tatcha.com/) · [图集](visual-atlas/211-220.jpg) |
+| 219 The Ordinary | 白底黑体标题与功效短句、右上登录提示 | 部分可用；右上登录/菜单提示需排除；功效与广告文案不迁移为事实 | [所列网址](https://theordinary.com/en-ca) · [图集](visual-atlas/211-220.jpg) |
+
+### 医美（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 220 Cynosure | 白底双栏 Providers/Patients、衬线字标与治疗情境图 | 部分可用；排除首屏未加载黑块，以内页 Providers/Patients 双栏为主要依据；偏企业医疗信息站，疗效与宣传主张不迁移 | [所列网址](https://www.cynosure.com/) · [图集](visual-atlas/211-220.jpg) |
+
+### 高端家居（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 221 Design Within Reach | 暖木室内家具场景、稀疏导航 | 部分可用；促销弹窗需排除；折扣文案不迁移。sites/ 原截图过弱，改用高清备用 | [所列网址](https://www.dwr.com/) · [图集](visual-atlas/221-230.jpg) |
+| 222 String Furniture | 花艺室内大标题与空间摄影 | 部分可用；地区选择弹窗需排除；可参考标题层级与空间摄影 | [所列网址](https://www.stringfurniture.com/en) · [图集](visual-atlas/221-230.jpg) |
+| 223 Ferm Living | 多幅灯具与家居图、促销短标题 | 可用；家居产品发布；折扣文案不迁移 | [所列网址](https://fermliving.com/) · [图集](visual-atlas/221-230.jpg) |
+
+### 艺术美术馆（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 224 Palais de Tokyo | 黑白编辑排版、大标题与活动目录 | 可用；文化出版高密度 | [所列网址](https://palaisdetokyo.com/) · [图集](visual-atlas/221-230.jpg) |
+
+### 画廊拍卖（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 225 Christie's | 深底作品与衬线展览标题、细导航 | 可用；作品档案/拍卖编辑。文件名含 christie，已目检确认为佳士得而非原库 155 号站 | [所列网址](https://www.christies.com.cn/) · [图集](visual-atlas/221-230.jpg) |
+
+### 超跑游艇（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 226 Koenigsegg | 赛车后视图、型号字标、极少文字 | 可用；电影感产品摄影 | [所列网址](https://www.koenigsegg.com/) · [图集](visual-atlas/221-230.jpg) |
+| 227 Ferretti Yachts | 海面游艇群、跨图大字标题 | 可用；电影摄影与字标 | [所列网址](https://www.ferrettigroup.com/en-us/) · [图集](visual-atlas/221-230.jpg) |
+
+### 高端电子（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 228 Dyson | 穿孔金属纹理底、活动标题与产品入口 | 可用；技术产品活动发布。原材料曾记为缺图，本包依据已更新截图 | [所列网址](https://www.dyson.cn/?utm_redirect=dyson.com) · [图集](visual-atlas/221-230.jpg) |
+| 229 Master & Dynamic | 皮革上耳机特写、左下型号与短说明 | 可用；精密产品舞台 | [所列网址](https://www.masterdynamic.com/) · [图集](visual-atlas/221-230.jpg) |
+| 230 Framer | 深底短标题与发光界面演示 | 可用；软件产品发布。来自 hd/final-200.v1 独有站 | [所列网址](https://www.framer.com/) · [图集](visual-atlas/221-230.jpg) |
+| 231 Linear | 深底大标题与产品界面截图 | 可用；软件产品发布。来自 hd/final-200.v1 独有站 | [所列网址](https://linear.app/) · [图集](visual-atlas/231-240.jpg) |
+| 232 Stripe | 浅底彩色渐变带、左对齐业务说明与标识墙 | 可用；彩色几何与清晰文案层级；标识墙不迁移。来自 hd/final-200.v1 独有站 | [所列网址](https://stripe.com/) · [图集](visual-atlas/231-240.jpg) |
+
+### 精品酒店（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 233 Aman | 米色底、物业摄影网格与短说明 | 可用；排除首屏视频未显现与检索空态，以内页 Seasonal Experiences 网格为主要依据 | [所列网址](https://www.aman.com/) · [图集](visual-atlas/231-240.jpg) |
+| 234 Four Seasons | 航拍度假村落、衬线大标题、图标入口 | 可用；目的地叙事 | [所列网址](https://www.fourseasons.com/) · [图集](visual-atlas/231-240.jpg) |
+| 235 Rosewood | 室内黄昏空间、物业短标题 | 可用；本次可用截图为香港物业页，不能当作集团总门首页的完整证据 | [所列网址](https://www.rosewoodhotels.com/en/default) · [图集](visual-atlas/231-240.jpg) |
+| 236 Edition Hotels | 暗场花卉构图、居中衬线字标 | 可用；电影/艺术首屏 | [所列网址](https://www.editionhotels.com/) · [图集](visual-atlas/231-240.jpg) |
+| 237 Ritz-Carlton | 白导航与预订条、主视频未显现、下方目的地编辑区 | 部分可用；排除未加载视频黑块与隐私提示，可参考导航、预订条与下方 Destinations 编辑区 | [所列网址](https://www.ritzcarlton.com/) · [图集](visual-atlas/231-240.jpg) |
+
+### 私厨餐饮（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 238 Noma | 深底极少文字、地点与年份、订位入口 | 可用；克制餐厅入场页 | [所列网址](https://noma.dk/) · [图集](visual-atlas/231-240.jpg) |
+| 239 Eleven Madison Park | 厨房人物摄影、顶部小图标字标与导航 | 可用；现场感餐饮摄影 | [所列网址](https://www.elevenmadisonpark.com/) · [图集](visual-atlas/231-240.jpg) |
+| 240 Alain Ducasse | 厨师团队群像、中轴字标 | 可用；人物与服务场景；勿把群像当作用户素材 | [所列网址](https://www.ducasse-paris.com/) · [图集](visual-atlas/231-240.jpg) |
+
+### 酒庄香槟（增补）
+
+| 编号/名称 | 首屏视觉标签 | 可用性/限制 | 来源与回看 |
+|---|---|---|---|
+| 241 Veuve Clicquot | 黄色装置与瓶体、蓝天背景、活动雕塑感 | 可用；首屏偏模糊电影帧，不宜当最终静态封面，只参考色彩、物件与舞台关系 | [所列网址](https://www.veuveclicquot.com/en-int/home.html) · [图集](visual-atlas/241-243.jpg) |
+| 242 Louis XIII | 暗金酒瓶静物、年龄门表单与衬线说明 | 局部；年龄验证表单不迁移，可参考酒瓶舞台与衬线层 | [所列网址](https://www.louisxiii-cognac.com/) · [图集](visual-atlas/241-243.jpg) |
+| 243 Dom Pérignon | 黑白瓶列、衬线标题与年份门 | 局部；年龄门不迁移，可参考瓶列节奏与衬线标题，不能把表单当主风格 | [所列网址](https://www.domperignon.com/) · [图集](visual-atlas/241-243.jpg) |
