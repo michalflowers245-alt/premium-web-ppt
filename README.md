@@ -6,13 +6,13 @@
 
 **让好设计，有章可循。**
 
-[在线展示网站](https://michalflowers245-alt.github.io/premium-web-ppt/) · [安装与使用](#安装与使用) · [六组原创案例](#六组原创案例) · [十种风格方向](#十种风格方向) · [200站参考档案](references/source-index.md) · [下载 v1.0.1](https://github.com/michalflowers245-alt/premium-web-ppt/releases/tag/v1.0.1)
+[在线展示网站](https://michalflowers245-alt.github.io/premium-web-ppt/) · [安装与使用](#安装与使用) · [六组原创案例](#六组原创案例) · [十种风格方向](#十种风格方向) · [243站参考档案](references/source-index.md) · [下载 v1.0.1](https://github.com/michalflowers245-alt/premium-web-ppt/releases/tag/v1.0.1)
 
 **有章（premium-web-ppt）** 是一个面向 Codex 的视觉设计 Skill。它将官网参考中的构图、字体、留白、图像和节奏，整理成网页与PPT的制作规则。
 
 建筑项目需要空间与尺度，产品发布需要材质细节，商业方案需要清楚的论证。它会按内容选参考，再把同一套视觉规则延伸到完整作品。
 
-**200条参考索引，17个原材料品类，10种视觉方向。** 包内有20张图集、逐站标签和素材质量说明；基础使用无需下载原始大文件。下面的六组案例均为新制作的原创概念演示，网页有实际HTML，PPT有可编辑源文件。
+**243条参考索引（原库 200 + 增补 43），17个原材料品类，10种视觉方向。** 包内有25张图集、逐站标签和素材质量说明；基础使用无需下载原始大文件。原库编号 001–200 保持不变，增补为 201–243。下面的六组案例均为新制作的原创概念演示，网页有实际HTML，PPT有可编辑源文件。
 
 > A visual design skill for Codex. Turn curated website references into deliberate layouts, Chinese typography, responsive websites, and editable presentations. Includes original examples and an attributed reference atlas.
 
@@ -128,7 +128,7 @@ git clone https://github.com/michalflowers245-alt/premium-web-ppt.git \
 | ![045 Buly官网参考，植物与工艺静物](docs/assets/reference-045.jpg)<br>**045 Buly** · [来源](https://buly1803.com/en-us)<br>借鉴：物料、插画与编辑层级。 | ![124 David Chipperfield官网参考，白色版心与建筑图](docs/assets/reference-124.jpg)<br>**124 David Chipperfield** · [来源](https://davidchipperfield.com/)<br>借鉴：图像边界与留白。 |
 | ![178 Apple官网参考，短标题与产品舞台](docs/assets/reference-178.jpg)<br>**178 Apple** · [来源](https://www.apple.com/)<br>借鉴：单一主对象与信息先后。 | ![187 Capella内页参考，建筑图与编辑拼版](docs/assets/reference-187.jpg)<br>**187 Capella Hotels** · [来源](https://capellahotels.com/en)<br>借鉴：大小图与说明的组合。 |
 
-完整资料见[200站索引](references/source-index.md)。已建立200份单站材料的文本和元数据索引，目检200张首图，并放大查看27张代表图；没有逐张精查全部1103张嵌入截图，也未实测现网动效。源材料中的空白、弹窗与疑似错站均有标记，原始探测笔记按资料保留。
+完整资料见[243站索引](references/source-index.md)。原库已建立200份单站材料的文本和元数据索引，目检200张首图，并放大查看27张代表图；没有逐张精查全部1103张嵌入截图，也未实测现网动效。2026-11-28 增补 43 站（201–243）及 5 张新图集，均经截图或内页裁切目检；空白、拦截、错站与质量不足的候选未写入可学习索引。源材料中的空白、弹窗与疑似错站均有标记。产品发布讲演的补充原则见[发布会演示文稿参考](references/launch-decks.md)。
 
 ## 仓库与素材
 
@@ -136,6 +136,6 @@ git clone https://github.com/michalflowers245-alt/premium-web-ppt.git \
 - `examples/`：三个网页与三套PPT的源文件、预览和制作说明。
 - `scripts/inspect_reference.py`：无需第三方依赖的参考查询工具；Python 3可用。
 
-基础使用只依赖仓库资料。原始PDF与200份PPT没有打包上传；需要提取高清截图时，通过 `--source-root` 指定自己的图鉴目录，详见索引。示例图片使用内置GPT ImageGen生成或原生图形绘制，真实页面和幻灯片另行排版渲染。
+基础使用只依赖仓库资料。原始PDF与原库200份PPT没有打包上传；增补站的高清原图同样不随仓库发布；需要提取高清截图时，通过 `--source-root` 指定自己的图鉴目录，详见索引。示例图片使用内置GPT ImageGen生成或原生图形绘制，真实页面和幻灯片另行排版渲染。
 
 原创规则、脚本和原创示例按[MIT许可证](LICENSE)提供。第三方官网截图与图集不在MIT授权范围内，来源与归属见[第三方素材说明](THIRD_PARTY_NOTICES.md)。

@@ -1,6 +1,6 @@
 # 风格选择与配方
 
-这些名称和配方是AI对本地截图的归纳，不是品牌官方规范。参考编号用于回查证据；比例、色值和字号是新设计起点。先查看实际图像，再按内容调整。配色可以更换，构图、字体角色、图像质量与节奏要共同成立。
+这些名称和配方是AI对本地截图的归纳，不是品牌官方规范。参考编号用于回查证据；比例、色值和字号是新设计起点。先查看实际图像，再按内容调整。配色可以更换，构图、字体角色、图像质量与节奏要共同成立。201–243 是 2026-11-28 增补站，只作为各方向的补充例证；十种方向本身没有改写。
 
 ## 快速选择
 
@@ -17,7 +17,7 @@
 
 ## A｜编辑画册：安静，但有明确比例
 
-**证据**：006 Dries Van Noten的中轴竖肖像；022 Margaret Howell的窄侧栏＋横图；026 Totême的小幅黑白图；124 David Chipperfield的大白边建筑图。
+**证据**：006 Dries Van Noten的中轴竖肖像；022 Margaret Howell的窄侧栏＋横图；026 Totême的小幅黑白图；124 David Chipperfield的大白边建筑图。 **增补**：233 Aman 的内页物业网格提供米色底＋短说明的安静变体；勿用其未加载的首屏视频区。
 
 **语法**：用同一对齐轴连接图像、标题与图注。白边与图像形成有意比例，不把每项内容都包进卡片；细节通过真实摄影呈现。
 
@@ -29,7 +29,7 @@
 
 ## B｜艺术编辑：大胆的图像关系
 
-**证据**：004 Comme des Garçons的黄色作品/黑白肖像双联；014 Acne Studios的跨图大字；023 Our Legacy的黑白硬分屏；054 Glossier的近景与巨大斜体字。
+**证据**：004 Comme des Garçons的黄色作品/黑白肖像双联；014 Acne Studios的跨图大字；023 Our Legacy的黑白硬分屏；054 Glossier的近景与巨大斜体字。 **增补**：206 Maison Margiela 的三幅非常规肖像；213 Ssense 的跨图大标题双联；207 Issey Miyake 的高饱和褶皱人像；241 Veuve Clicquot 的黄色装置（首屏偏模糊，只取色彩与物件关系）。
 
 **语法**：双联画、超大字、硬分屏、局部出血中选一个主手法。对比由内容关系建立，例如现象/解释、整体/细节、前/后；其他界面保持清楚。
 
@@ -41,7 +41,7 @@
 
 ## C｜古典工艺：物件、插画与纸面秩序
 
-**证据**：045 Buly的植物线描与香料静物；046 Penhaligon's的礼品舞台；049 Smythson的同色三联静物；075 Vintner's Daughter的油画式水果与橄榄绿。
+**证据**：045 Buly的植物线描与香料静物；046 Penhaligon's的礼品舞台；049 Smythson的同色三联静物；075 Vintner's Daughter的油画式水果与橄榄绿。 **增补**：242 Louis XIII 的暗金酒瓶舞台（年龄门不迁移）；243 Dom Pérignon 的黑白瓶列节奏（年份表单不迁移）。
 
 **语法**：颜色与细节来自真实物件，衬线承担展示层，干净正文承担说明；插画、边框和纹样只在主题需要时出现。
 
@@ -53,7 +53,7 @@
 
 ## D｜空间材质：让光线与尺度说话
 
-**证据**：094 Boffi的暖木空间；101 Flos的光源/灯体；120 Vipp的外景/内景双图；127 John Pawson的夜蓝建筑；130 Norm Architects的暖灰室内轴线。
+**证据**：094 Boffi的暖木空间；101 Flos的光源/灯体；120 Vipp的外景/内景双图；127 John Pawson的夜蓝建筑；130 Norm Architects的暖灰室内轴线。 **增补**：221 Design Within Reach 的暖木室内（促销弹窗排除）；222 String Furniture 的空间摄影与大标题（地区弹窗排除）。
 
 **语法**：一幅具有透视、光源和材料层次的照片占主位，文字退到平静处。自然光与结构提供层级，不把摄影阴影照抄成文字框阴影。
 
@@ -65,7 +65,7 @@
 
 ## E｜作品档案：有秩序的图像与元数据
 
-**证据**：123 BIG的窄项目流和侧标签；132 Pentagram的白色框架与图注；134 Snøhetta的说明与错落图组；135 Studio Gang的多列编辑；138 David Zwirner的白色展陈。
+**证据**：123 BIG的窄项目流和侧标签；132 Pentagram的白色框架与图注；134 Snøhetta的说明与错落图组；135 Studio Gang的多列编辑；138 David Zwirner的白色展陈。 **增补**：225 Christie's 的深底作品与衬线展览标题。
 
 **语法**：项目、年份、类型、地点等真实元数据支持检索；用图片尺寸、位置和章节区别建立节奏。图像可以错落，但边界与基线要可解释。
 
@@ -77,7 +77,7 @@
 
 ## F｜精密展陈：材质细节与受控光线
 
-**证据**：029 A. Lange & Söhne的左物右字；031 Breguet的金属微距；035 MB&F的机械主体与粗标题；064 Augustinus Bader的单件产品；178 Apple的深底产品发布；179 Bowers & Wilkins的几何产品舞台。
+**证据**：029 A. Lange & Söhne的左物右字；031 Breguet的金属微距；035 MB&F的机械主体与粗标题；064 Augustinus Bader的单件产品；178 Apple的深底产品发布；179 Bowers & Wilkins的几何产品舞台。 **增补**：202 Bottega Veneta 的编织手袋特写；214 Richard Mille 的腕表与人像（Cookie 排除）；215 Chopard 的白底珠宝；229 Master & Dynamic 的耳机材质舞台；204 Berluti 的暖棕分栏静物。
 
 **语法**：一个核心产品与充足细节，靠光泽、轮廓、景深和少量参数形成可信度。深底和浅底都能成立，按产品材质选择。
 
@@ -89,7 +89,7 @@
 
 ## G｜电影摄影：场景先建立主题
 
-**证据**：002 Chanel的人物摄影；008 Loewe的场景与强色字标；009 Louis Vuitton/024 Rapha的运动帧；172 Porsche与176 Singer的车与环境关系。
+**证据**：002 Chanel的人物摄影；008 Loewe的场景与强色字标；009 Louis Vuitton/024 Rapha的运动帧；172 Porsche与176 Singer的车与环境关系。 **增补**：201 Hermès 的秋日风景叠字；203 Miu Miu、205 Max Mara、210 Ami Paris、211 Isabel Marant、212 Reformation、216 Asprey 的人物摄影首屏；208 Arc'teryx 与 226 Koenigsegg、227 Ferretti Yachts 的运动/器物场景。勿复制肖像。
 
 **语法**：摄影自身有主体、方向、环境与空处，文字按画面安排；首屏只承担一个主要叙事任务。颜色从画面取，避免额外叠加一套无关装饰。
 
@@ -101,7 +101,7 @@
 
 ## H｜清晰发布：大主体与明确行动
 
-**证据**：003 Christian Louboutin的钴蓝产品舞台；059 Tom Ford Beauty的左字右物；067 Drunk Elephant的明亮产品组合；073 SK-II的产品尺度；079 Allergan的暖色人物；103 Gubi的单灯特写。
+**证据**：003 Christian Louboutin的钴蓝产品舞台；059 Tom Ford Beauty的左字右物；067 Drunk Elephant的明亮产品组合；073 SK-II的产品尺度；079 Allergan的暖色人物；103 Gubi的单灯特写。 **增补**：218 Tatcha、219 The Ordinary（登录提示排除）、223 Ferm Living、228 Dyson 的产品/活动发布；230 Framer、231 Linear、232 Stripe 的软件产品页；209 Uniqlo 仅作电商活动型参考，促销文案不迁移。
 
 **语法**：标题、短说明、主体、行动有明确顺序。可鲜艳、可淡雅、可暗色，关键是一个主对象和清楚层级。
 
@@ -113,7 +113,7 @@
 
 ## I｜目的地叙事：空间、场景与服务
 
-**证据**：186 Belmond的自然景观；187 Capella的image2建筑编辑拼版；190 Peninsula的明亮室内；191 Alinea的菜品微距；195 Château Margaux的image2叙述与竖图册；200 Soho House的image2奶油白生活编辑。适合酒店、餐饮、会所、文旅和体验服务；同一行业不等于同一风格。
+**证据**：186 Belmond的自然景观；187 Capella的image2建筑编辑拼版；190 Peninsula的明亮室内；191 Alinea的菜品微距；195 Château Margaux的image2叙述与竖图册；200 Soho House的image2奶油白生活编辑。适合酒店、餐饮、会所、文旅和体验服务；同一行业不等于同一风格。 **增补**：234 Four Seasons、235 Rosewood（香港物业页）、236 Edition Hotels；233 Aman 取内页网格而非残缺首屏；237 Ritz-Carlton 排除未加载视频黑块；238 Noma、239 Eleven Madison Park、240 Alain Ducasse 提供餐饮场景变体。
 
 **语法**：场景建立向往，文字补足地点、体验、服务与行动。空间远景、人物尺度、局部静物和服务说明形成节奏；标题可衬线，正文保持清楚。
 
@@ -125,7 +125,7 @@
 
 ## J｜文化出版：大胆标题与较高密度
 
-**证据**：131 OMA的大导航、白色标题条与红色新闻区；135 Studio Gang的多列信息；142 MoMA的紧凑资讯；146 Tate的蓝色文字区；150 PSA的细线索引与四列海报；198 JPMorgan Private Bank的image2横向商务条目。
+**证据**：131 OMA的大导航、白色标题条与红色新闻区；135 Studio Gang的多列信息；142 MoMA的紧凑资讯；146 Tate的蓝色文字区；150 PSA的细线索引与四列海报；198 JPMorgan Private Bank的image2横向商务条目。 **增补**：224 Palais de Tokyo 的黑白高密度活动目录。
 
 **语法**：大标题、图像与较密的说明各有层级，色块承担栏目或新闻功能。高级感也可以来自内容充足、分栏准确和标题有力度。
 

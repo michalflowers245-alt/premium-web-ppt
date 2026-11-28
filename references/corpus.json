@@ -23710,5 +23710,994 @@
     "visual_status": "可用；image2 为轻松编辑式生活叙事，会员数量只是原件文案",
     "pdf_page": 205,
     "visual_atlas": "visual-atlas/191-200.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Hermès",
+    "category": "奢侈品时装",
+    "source": "增补图鉴/201-Hermès",
+    "source_url": "https://www.hermes.cn/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/201.jpg",
+        "width": 3840,
+        "height": 2400,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "整版秋日风景、翻开书页与箱包、细小中文标题叠字",
+    "visual_status": "可用；电影画面气质。截图由错误页救援替换，分析依据救援后画面",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 202,
+    "name": "Bottega Veneta",
+    "category": "奢侈品时装",
+    "source": "增补图鉴/202-Bottega Veneta",
+    "source_url": "https://www.bottegaveneta.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/202.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "白底编织手袋特写、稀疏导航、产品占主位",
+    "visual_status": "可用；精密材质产品舞台",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 203,
+    "name": "Miu Miu",
+    "category": "奢侈品时装",
+    "source": "增补图鉴/203-Miu Miu",
+    "source_url": "https://www.miumiu.cn/cn/zh.html",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/203.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "整版编导式人物组照、居中短词、细白导航",
+    "visual_status": "可用；电影/编辑人像；勿复制肖像",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 204,
+    "name": "Berluti",
+    "category": "奢侈品时装",
+    "source": "增补图鉴/204-Berluti",
+    "source_url": "https://www.berluti.cn/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/204.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "暖棕产品静物与人物分栏、衬线字标、多列说明",
+    "visual_status": "可用；材质与产品故事并置",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 205,
+    "name": "Max Mara",
+    "category": "奢侈品时装",
+    "source": "增补图鉴/205-Max Mara",
+    "source_url": "https://www.maxmara.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/205.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "粉色外套人物与石雕并置、白顶栏",
+    "visual_status": "可用；人像与雕塑对照；勿复制肖像",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 206,
+    "name": "Maison Margiela",
+    "category": "奢侈品时装",
+    "source": "增补图鉴/206-Maison Margiela",
+    "source_url": "https://www.maisonmargiela.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/206.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "白底三幅非常规人像与裙装、极少文字",
+    "visual_status": "可用；艺术编辑肖像，勿复制肖像或标识",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 207,
+    "name": "Issey Miyake",
+    "category": "奢侈品时装",
+    "source": "增补图鉴/207-Issey Miyake",
+    "source_url": "https://www.isseymiyake.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/207.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "高饱和褶皱服装人像、极简站点字标",
+    "visual_status": "可用；色彩与褶皱材质主导",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 208,
+    "name": "Arc'teryx",
+    "category": "服装品牌",
+    "source": "增补图鉴/208-Arc'teryx",
+    "source_url": "https://arcteryx.com/cn",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/208.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "登山人物大图、右上产品短标题",
+    "visual_status": "可用；运动叙事摄影。sites/ 原截图近白，改用高清备用",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 209,
+    "name": "Uniqlo",
+    "category": "服装品牌",
+    "source": "增补图鉴/209-Uniqlo",
+    "source_url": "https://www.uniqlo.cn/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/209.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "品红渐变大字促销主视觉、倒计时与券文案",
+    "visual_status": "可用；中国电商活动型；促销文案、时限与优惠不迁移为事实。sites/ 原截图近白，改用高清备用",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 210,
+    "name": "Ami Paris",
+    "category": "服装品牌",
+    "source": "增补图鉴/210-Ami Paris",
+    "source_url": "https://www.amiparis.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/210.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "深蓝街头人像、细导航、产品短标签",
+    "visual_status": "可用；生活摄影编辑；勿复制肖像",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/201-210.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 211,
+    "name": "Isabel Marant",
+    "category": "服装品牌",
+    "source": "增补图鉴/211-Isabel Marant",
+    "source_url": "https://isabelmarant.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/211.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "棕褐纹理上人物特写、衬线字标、中部短标题",
+    "visual_status": "可用；材质与冬季编辑；勿复制肖像",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 212,
+    "name": "Reformation",
+    "category": "服装品牌",
+    "source": "增补图鉴/212-Reformation",
+    "source_url": "https://www.thereformation.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/212.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "红裙人物几乎满版、左下短标题与行动",
+    "visual_status": "可用；摄影主导的发布；勿复制肖像",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 213,
+    "name": "Ssense",
+    "category": "服装品牌",
+    "source": "增补图鉴/213-Ssense",
+    "source_url": "https://www.ssense.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/213.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "灰底双联买手店摄影、超大跨图标题",
+    "visual_status": "可用；艺术编辑双联。来自 hd/final-200.v1 独有站，不在 221 站名单中",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "v1"
+  },
+  {
+    "id": 214,
+    "name": "Richard Mille",
+    "category": "腕表珠宝",
+    "source": "增补图鉴/214-Richard Mille",
+    "source_url": "https://www.richardmille.cn/cn/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/214.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "人物与腕表主视觉、大号姓名字标",
+    "visual_status": "部分可用；右侧 Cookie 面板需排除，勿复制肖像",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 215,
+    "name": "Chopard",
+    "category": "腕表珠宝",
+    "source": "增补图鉴/215-Chopard",
+    "source_url": "https://www.chopard.com/on/demandware.store/Sites-chopard-Site/zh_CN/Home-Show",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/215.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "白底钻石珠宝特写、衬线标题",
+    "visual_status": "可用；明亮精密产品。原材料曾记为弱小文件，本包依据尺寸与画面已更新的截图",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 216,
+    "name": "Asprey",
+    "category": "腕表珠宝",
+    "source": "增补图鉴/216-Asprey",
+    "source_url": "https://www.asprey.com/en-intl",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/216.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "紫顶栏、衬线字标、暖棕人像与花卉耳饰",
+    "visual_status": "可用；摄影主导。图集取无弹窗的站点截图，不用带订阅窗的高清首屏",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 217,
+    "name": "Moscot",
+    "category": "香水配饰",
+    "source": "增补图鉴/217-Moscot",
+    "source_url": "https://moscot.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/217.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "沙滩上多副眼镜静物、底部黄色行动标签",
+    "visual_status": "可用；明亮商业产品舞台",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 218,
+    "name": "Tatcha",
+    "category": "护肤品",
+    "source": "增补图鉴/218-Tatcha",
+    "source_url": "https://tatcha.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/218.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "白底商品货架、淡紫点缀、短句标题",
+    "visual_status": "可用；清晰美妆发布",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 219,
+    "name": "The Ordinary",
+    "category": "护肤品",
+    "source": "增补图鉴/219-The Ordinary",
+    "source_url": "https://theordinary.com/en-ca",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/219.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "白底黑体标题与功效短句、右上登录提示",
+    "visual_status": "部分可用；右上登录/菜单提示需排除；功效与广告文案不迁移为事实",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 220,
+    "name": "Cynosure",
+    "category": "医美",
+    "source": "增补图鉴/220-Cynosure",
+    "source_url": "https://www.cynosure.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/220.jpg",
+        "width": 3840,
+        "height": 5626,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "白底双栏 Providers/Patients、衬线字标与治疗情境图",
+    "visual_status": "部分可用；排除首屏未加载黑块，以内页 Providers/Patients 双栏为主要依据；偏企业医疗信息站，疗效与宣传主张不迁移",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/211-220.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 221,
+    "name": "Design Within Reach",
+    "category": "高端家居",
+    "source": "增补图鉴/221-Design Within Reach",
+    "source_url": "https://www.dwr.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/221.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "暖木室内家具场景、稀疏导航",
+    "visual_status": "部分可用；促销弹窗需排除；折扣文案不迁移。sites/ 原截图过弱，改用高清备用",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 222,
+    "name": "String Furniture",
+    "category": "高端家居",
+    "source": "增补图鉴/222-String Furniture",
+    "source_url": "https://www.stringfurniture.com/en",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/222.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "花艺室内大标题与空间摄影",
+    "visual_status": "部分可用；地区选择弹窗需排除；可参考标题层级与空间摄影",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 223,
+    "name": "Ferm Living",
+    "category": "高端家居",
+    "source": "增补图鉴/223-Ferm Living",
+    "source_url": "https://fermliving.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/223.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "多幅灯具与家居图、促销短标题",
+    "visual_status": "可用；家居产品发布；折扣文案不迁移",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 224,
+    "name": "Palais de Tokyo",
+    "category": "艺术美术馆",
+    "source": "增补图鉴/224-Palais de Tokyo",
+    "source_url": "https://palaisdetokyo.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/224.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "黑白编辑排版、大标题与活动目录",
+    "visual_status": "可用；文化出版高密度",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 225,
+    "name": "Christie's",
+    "category": "画廊拍卖",
+    "source": "增补图鉴/225-Christie's",
+    "source_url": "https://www.christies.com.cn/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/225.jpg",
+        "width": 3840,
+        "height": 11742,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "深底作品与衬线展览标题、细导航",
+    "visual_status": "可用；作品档案/拍卖编辑。文件名含 christie，已目检确认为佳士得而非原库 155 号站",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 226,
+    "name": "Koenigsegg",
+    "category": "超跑游艇",
+    "source": "增补图鉴/226-Koenigsegg",
+    "source_url": "https://www.koenigsegg.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/226.jpg",
+        "width": 3840,
+        "height": 14160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "赛车后视图、型号字标、极少文字",
+    "visual_status": "可用；电影感产品摄影",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 227,
+    "name": "Ferretti Yachts",
+    "category": "超跑游艇",
+    "source": "增补图鉴/227-Ferretti Yachts",
+    "source_url": "https://www.ferrettigroup.com/en-us/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/227.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "海面游艇群、跨图大字标题",
+    "visual_status": "可用；电影摄影与字标",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 228,
+    "name": "Dyson",
+    "category": "高端电子",
+    "source": "增补图鉴/228-Dyson",
+    "source_url": "https://www.dyson.cn/?utm_redirect=dyson.com",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/228.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "穿孔金属纹理底、活动标题与产品入口",
+    "visual_status": "可用；技术产品活动发布。原材料曾记为缺图，本包依据已更新截图",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 229,
+    "name": "Master & Dynamic",
+    "category": "高端电子",
+    "source": "增补图鉴/229-Master & Dynamic",
+    "source_url": "https://www.masterdynamic.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/229.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "皮革上耳机特写、左下型号与短说明",
+    "visual_status": "可用；精密产品舞台",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 230,
+    "name": "Framer",
+    "category": "高端电子",
+    "source": "增补图鉴/230-Framer",
+    "source_url": "https://www.framer.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/230.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "深底短标题与发光界面演示",
+    "visual_status": "可用；软件产品发布。来自 hd/final-200.v1 独有站",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/221-230.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "v1"
+  },
+  {
+    "id": 231,
+    "name": "Linear",
+    "category": "高端电子",
+    "source": "增补图鉴/231-Linear",
+    "source_url": "https://linear.app/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/231.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "深底大标题与产品界面截图",
+    "visual_status": "可用；软件产品发布。来自 hd/final-200.v1 独有站",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "v1"
+  },
+  {
+    "id": 232,
+    "name": "Stripe",
+    "category": "高端电子",
+    "source": "增补图鉴/232-Stripe",
+    "source_url": "https://stripe.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/232.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "浅底彩色渐变带、左对齐业务说明与标识墙",
+    "visual_status": "可用；彩色几何与清晰文案层级；标识墙不迁移。来自 hd/final-200.v1 独有站",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "v1"
+  },
+  {
+    "id": 233,
+    "name": "Aman",
+    "category": "精品酒店",
+    "source": "增补图鉴/233-Aman",
+    "source_url": "https://www.aman.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/233.jpg",
+        "width": 3840,
+        "height": 11640,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "米色底、物业摄影网格与短说明",
+    "visual_status": "可用；排除首屏视频未显现与检索空态，以内页 Seasonal Experiences 网格为主要依据",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 234,
+    "name": "Four Seasons",
+    "category": "精品酒店",
+    "source": "增补图鉴/234-Four Seasons",
+    "source_url": "https://www.fourseasons.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/234.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "航拍度假村落、衬线大标题、图标入口",
+    "visual_status": "可用；目的地叙事",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 235,
+    "name": "Rosewood",
+    "category": "精品酒店",
+    "source": "增补图鉴/235-Rosewood",
+    "source_url": "https://www.rosewoodhotels.com/en/default",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/235.jpg",
+        "width": 3840,
+        "height": 16000,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "室内黄昏空间、物业短标题",
+    "visual_status": "可用；本次可用截图为香港物业页，不能当作集团总门首页的完整证据",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 236,
+    "name": "Edition Hotels",
+    "category": "精品酒店",
+    "source": "增补图鉴/236-Edition Hotels",
+    "source_url": "https://www.editionhotels.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/236.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "暗场花卉构图、居中衬线字标",
+    "visual_status": "可用；电影/艺术首屏",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 237,
+    "name": "Ritz-Carlton",
+    "category": "精品酒店",
+    "source": "增补图鉴/237-Ritz-Carlton",
+    "source_url": "https://www.ritzcarlton.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/237.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "白导航与预订条、主视频未显现、下方目的地编辑区",
+    "visual_status": "部分可用；排除未加载视频黑块与隐私提示，可参考导航、预订条与下方 Destinations 编辑区",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 238,
+    "name": "Noma",
+    "category": "私厨餐饮",
+    "source": "增补图鉴/238-Noma",
+    "source_url": "https://noma.dk/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/238.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "深底极少文字、地点与年份、订位入口",
+    "visual_status": "可用；克制餐厅入场页",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 239,
+    "name": "Eleven Madison Park",
+    "category": "私厨餐饮",
+    "source": "增补图鉴/239-Eleven Madison Park",
+    "source_url": "https://www.elevenmadisonpark.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/239.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "厨房人物摄影、顶部小图标字标与导航",
+    "visual_status": "可用；现场感餐饮摄影",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 240,
+    "name": "Alain Ducasse",
+    "category": "私厨餐饮",
+    "source": "增补图鉴/240-Alain Ducasse",
+    "source_url": "https://www.ducasse-paris.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/240.jpg",
+        "width": 1280,
+        "height": 800,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "厨师团队群像、中轴字标",
+    "visual_status": "可用；人物与服务场景；勿把群像当作用户素材",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/231-240.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 241,
+    "name": "Veuve Clicquot",
+    "category": "酒庄香槟",
+    "source": "增补图鉴/241-Veuve Clicquot",
+    "source_url": "https://www.veuveclicquot.com/en-int/home.html",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/241.jpg",
+        "width": 3840,
+        "height": 16000,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "黄色装置与瓶体、蓝天背景、活动雕塑感",
+    "visual_status": "可用；首屏偏模糊电影帧，不宜当最终静态封面，只参考色彩、物件与舞台关系",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/241-243.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 242,
+    "name": "Louis XIII",
+    "category": "酒庄香槟",
+    "source": "增补图鉴/242-Louis XIII",
+    "source_url": "https://www.louisxiii-cognac.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/242.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "暗金酒瓶静物、年龄门表单与衬线说明",
+    "visual_status": "局部；年龄验证表单不迁移，可参考酒瓶舞台与衬线层",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/241-243.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
+  },
+  {
+    "id": 243,
+    "name": "Dom Pérignon",
+    "category": "酒庄香槟",
+    "source": "增补图鉴/243-Dom Pérignon",
+    "source_url": "https://www.domperignon.com/",
+    "slide_count": 0,
+    "screenshots": [
+      {
+        "entry": "supplement/243.jpg",
+        "width": 3840,
+        "height": 2160,
+        "note": "2026-10-29 research capture; high-res originals are not shipped in the repo"
+      }
+    ],
+    "slides": [],
+    "visual_tags": "黑白瓶列、衬线标题与年份门",
+    "visual_status": "局部；年龄门不迁移，可参考瓶列节奏与衬线标题，不能把表单当主风格",
+    "pdf_page": null,
+    "visual_atlas": "visual-atlas/241-243.jpg",
+    "batch": "supplement-2026-10-29",
+    "origin": "sites221"
   }
 ]
